@@ -1,8 +1,8 @@
-module github.com/103cuong/go_template
+module github.com/103cuong/pubsub_go
 
 go 1.14
 
 require (
-	github.com/103cuong/uid v0.1.0
-	github.com/Arkweid/lefthook v0.7.2 // indirect
+	github.com/corpix/uarand v0.1.1 // indirect
+	github.com/icrowley/fake v0.0.0-20180203215853-4178557ae428
 )
